@@ -1,0 +1,4 @@
+budget,condition,n,success,check,judge,judge_sd,heur,lat_med,lat_p95,lat_mean,cost,tokens,calls,retries,swaps,skipped,fail,budget_ok
+loose,single,20,95.0,0.975,1.0,0.0,0.8378,15.315,51.9275,24.3475,0.00109,495.75,1.0,0.0,0.0,0.0,0.0,100.0
+loose,fixed_pipeline,3,100.0,0.91667,1.0,0.0,0.857,20.51,22.148,20.52,0.0037,4029.0,4.0,0.0,0.0,0.0,0.0,100.0
+loose,adaptive,5,100.0,1.0,1.0,0.0,0.8446,1.35,8.948,3.132,0.00027,798.2,2.0,0.0,0.0,0.0,0.0,100.0
